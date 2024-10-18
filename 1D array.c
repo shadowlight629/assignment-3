@@ -1,4 +1,7 @@
 // 1 D array
+/* Name: purity Thuo
+date: 15/10/24
+	*/
 #include<stdio.h>
 int main(){
 	int i;
